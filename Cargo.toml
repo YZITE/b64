@@ -1,11 +1,11 @@
 [package]
 name = "yzb64"
 description = "Ytrizja base-64 specialization"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license = "ISC OR Apache-2.0"
 repository = "https://github.com/YZITE/b64"
 
 [dependencies]
-base64 = "0.20.0-alpha.1"
-once_cell = "1.10"
+base64 = "0.21.2"
+once_cell = "1.18"
